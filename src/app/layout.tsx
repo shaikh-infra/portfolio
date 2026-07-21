@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BUILDING",
-  description: "Civil Engineering Portfolio",
+  title: "Shaikh Infrastructure & Developers",
+  description:
+    "Civil Engineering | Architecture | Infrastructure Development",
 };
 
 export default function RootLayout({
